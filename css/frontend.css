@@ -1,0 +1,8 @@
+label{
+	color: blue;
+	margin:10px;
+}
+#front_submit,#firstname,#lastname,#email,#password,#username,#address,#message,#labelfield{
+	border-radius: 10px;
+	border-color: green;
+}
