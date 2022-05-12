@@ -2,7 +2,7 @@
 
 /*
   Plugin Name: My_frist_plugin
-  Plugin URI:  https://accesspressthemes.com/wordpress-plugins/
+  Plugin URI:  http://localhost
   Description: A plugin to build any type of forms
   Version:     1.0.0
   Author:     Me
